@@ -8,7 +8,7 @@ Meu nome é Aline Lara
 
 - ### Você pode entrar em contato comigo 📬
 
-- aline.camargo.lara@escola.pt.gov.br
+- aline.camargo.lara@escola.pr.gov.br
  
 - @allinelara
 
