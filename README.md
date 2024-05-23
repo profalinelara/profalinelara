@@ -13,3 +13,5 @@ Meu nome é Aline Lara
 - @allinelara
 
 ![](https://media1.tenor.com/m/1tVWVYqbSaAAAAAC/harry-potter-ron-weasley.gif)
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
