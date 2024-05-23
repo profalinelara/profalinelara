@@ -14,4 +14,4 @@ Meu nome é Aline Lara
 
 ![](https://media1.tenor.com/m/1tVWVYqbSaAAAAAC/harry-potter-ron-weasley.gif)
 
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
+
